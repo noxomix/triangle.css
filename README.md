@@ -1,5 +1,7 @@
 # triangle.css
 Easy to use Responsive CSS-Triangles ect
 
-- Test
-
+#### How to install?
+´´´
+<link rel="stylesheet" href="triangle.css">
+´´´
