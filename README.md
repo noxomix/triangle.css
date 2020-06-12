@@ -26,4 +26,4 @@ The base-construct of a Triangle looks like this:
 | .tri
 
 Thats look like this:
-![image](http://url/to/img.png)
+![image](example-image.png)
