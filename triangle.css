@@ -3,6 +3,7 @@
 	min-height: 10rem;
 	overflow: hidden;
 	z-index: 1;
+	background: transparent;
 }
 
 .tri-left-right {
