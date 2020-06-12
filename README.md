@@ -1,4 +1,4 @@
-# triangle.css
+# Triangle.css
 Triangle.css is an easy responsive Framework for build-in Triangles. Its especialy build as extension for Bootstrap (4), but also it can be used for every other css framework. 
 
 ## How to install?
@@ -12,7 +12,7 @@ Triangle.css is an easy responsive Framework for build-in Triangles. Its especia
 The base-construct of a Triangle looks like this:
 ```
 <div class="tri-fluid">
-    <div class="tri-left-to-right b-dark"> </div>
+    <div class="tri-left-to-right bg-dark"> </div>
 </div>
 ```
 **List of all Classes:**
