@@ -19,11 +19,12 @@ The base-construct of a Triangle looks like this:
 
 | **Class**     | **Information** |
 | ------------- | --------------- |
-| .tri-container **or** .tri-fluid    | Creates a new Container for Triangle(s). (for example: class="col-md-5 tri-container")  |
+| .tri-container **or** .tri-fluid    | Creates a new Container for Triangle(s). (sample: class="col-md-5 tri-container")  |
 | .tri-left-right  | Creates a full width Triangle from **left** to **right**  |
 | .tri-right-left  | Creates a full width Triangle from **right** to **left**  |
 | .tri-reverse     | (Only using for .tri-fluid/container), make Upside-down   |
-| .tri
+| .tri-climb-[N]   | Edit the Radius/Climb. Replace N with digits between 2 and 5 (sample: .tri-left-right .tri-climb-3)|
+| .tri-mobile      | Coming Soon! |
 
 Thats look like this:
 ![image](example-image.png)
