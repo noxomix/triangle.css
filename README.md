@@ -11,7 +11,7 @@ Triangle.css is an easy responsive Framework for build-in Triangles. Its especia
 ### Classes
 The base-construct of a Triangle looks like this:
 ```
-<div class="tri-fluid">
+<div class="tri-container">
     <div class="tri-left-to-right bg-dark"> </div>
 </div>
 ```
