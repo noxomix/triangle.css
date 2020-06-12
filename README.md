@@ -20,7 +20,10 @@ The base-construct of a Triangle looks like this:
 | **Class**     | **Information** |
 | ------------- | --------------- |
 | .tri-container **or** .tri-fluid    | Creates a new Container for Triangle(s). (for example: class="col-md-5 tri-container")  |
-| Content Cell  | Content Cell  |
+| .tri-left-right  | Creates a full width Triangle from **left** to **right**  |
+| .tri-right-left  | Creates a full width Triangle from **right** to **left**  |
+| .tri-reverse     | (Only using for .tri-fluid/container), make Upside-down   |
+| .tri
 
 Thats look like this:
 ![image](http://url/to/img.png)
