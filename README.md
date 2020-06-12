@@ -19,7 +19,7 @@ The base-construct of a Triangle looks like this:
 
 | **Class**     | **Information** |
 | ------------- | --------------- |
-| .tri-container **or** .tri-fluid    | Creates a new Container for Triangle(s). (It **can** be used like this: class="col-md-5 tri-container")  |
+| .tri-container **or** .tri-fluid    | Creates a new Container for Triangle(s). (for example: class="col-md-5 tri-container")  |
 | Content Cell  | Content Cell  |
 
 Thats look like this:
