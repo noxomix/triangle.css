@@ -16,5 +16,11 @@ The base-construct of a Triangle looks like this:
 </div>
 ```
 **List of all Classes:**
+
+| **Class**     | **Information** |
+| ------------- | --------------- |
+| .tri-fluid    | Create a new Container for   |
+| Content Cell  | Content Cell  |
+
 Thats look like this:
 ![image](http://url/to/img.png)
