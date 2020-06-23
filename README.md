@@ -29,3 +29,6 @@ The base-construct of a Triangle looks like this:
 
 Thats look like this:
 ![image](example-image.png)
+
+**Any Questions?**
+-> support@testspace.yc-hh.de
