@@ -5,7 +5,7 @@ Triangle.css is an easy responsive Framework for build-in Triangles. Its especia
 ```
 <link rel="stylesheet" href="triangle.css">
 ```
-(or use this for Quickstart: '```<link rel="stylesheet" href="http://css.hallofcode.com/triangle.css">```')
+(or use this for Quickstart: '```<link rel="stylesheet" href="https://css.hallofcode.com/triangle.css">```')
 
 ## How does it work?
 
