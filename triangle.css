@@ -1,5 +1,6 @@
 .tri-container, .tri-fluid {
 	position: relative !important;
+	width: 100%;
 	min-height: 10rem;
 	overflow: hidden;
 	z-index: 1;
