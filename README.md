@@ -24,7 +24,7 @@ The base-construct of a Triangle looks like this:
 | .tri-left-right  | Creates a full width Triangle from **left** to **right**  |
 | .tri-right-left  | Creates a full width Triangle from **right** to **left**  |
 | .tri-reverse     | (Only using for .tri-fluid/container), make Upside-down   |
-| .tri-climb-[N]   | Edit the Radius/Climb. Replace N with digits between 2 and 5 (sample: .tri-left-right .tri-climb-3)|
+| .t-climb-[N]   | Edit the Radius/Climb. Replace N with digits between 2 and 5 (sample: .tri-left-right .tri-climb-3)|
 | .tri-mobile      | Coming Soon! |
 
 Thats look like this:
