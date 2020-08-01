@@ -13,7 +13,7 @@ Triangle.css is an easy responsive Framework for build-in Triangles. Its especia
 The base-construct of a Triangle looks like this:
 ```
 <div class="tri-container">
-    <div class="tri-left-to-right bg-dark"> </div>
+    <div class="tri-left-right bg-dark"> </div>
 </div>
 ```
 **List of all Classes:**
