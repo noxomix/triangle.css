@@ -1,5 +1,5 @@
 # Triangle.css
-Triangle.css is an easy responsive Framework for build-in/only CSS (**no SVG**) Triangles. Its especialy build as extension for Bootstrap (4/5), but also it can be used for every other Css Framework. 
+Triangle.css is an easy responsive Framework for build-in/pure CSS (**no SVG**) Triangles. Its especialy build as extension for Bootstrap (4/5), but also it can be used for every other Css Framework. 
 
 ## How to install?
 ```
@@ -30,4 +30,4 @@ The base-construct of a Triangle looks like this:
 ![Image](fdsfdsdsf.PNG)
 
 **Any Questions?**
--> GitHUb hast the Issue-Function ;)
+-> GitHub has the Issue-Function ;)
