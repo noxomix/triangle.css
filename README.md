@@ -27,8 +27,5 @@ The base-construct of a Triangle looks like this:
 | .t-climb-[N]   | Edit the Radius/Climb. Replace N with digits between 2 and 5 (sample: .tri-left-right .tri-climb-3)|
 | .tri-mobile      | Coming Soon! |
 
-Thats look like this:
-![image](example-image.png)
-
 **Any Questions?**
 -> GitHUb hast the Issue-Function ;)
