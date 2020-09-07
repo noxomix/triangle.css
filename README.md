@@ -5,7 +5,7 @@ Triangle.css is an easy responsive Framework for build-in/only CSS (**no SVG**) 
 ```
 <link rel="stylesheet" href="triangle.css">
 ```
-(or use this for Quickstart: '``<link rel="stylesheet" href="http://cdn.noxomix.de/stylesheets/triangle/triangle.min.css">```')
+(or use this for Quickstart: '``<link rel="stylesheet" href="http://cdn.noxomix.de/stylesheets/triangle/triangle.min.css">``')
 
 ## How does it work?
 
