@@ -1,7 +1,7 @@
 .tri-container, .tri-fluid {
 	position: relative !important;
 	width: 100%;
-	min-height: 10rem;
+	min-height: 10vw;
 	overflow: hidden;
 	z-index: 1;
 	background: transparent;
@@ -10,8 +10,8 @@
 .tri-left-right {
 	position: absolute !important;
 	min-height: 3rem;
-	width: calc(100% + 20rem);
-	left: -10rem;
+	width: calc(100vw + 20rem);
+	left: -10vw;
 	bottom: -1rem;
 	z-index: 0;
 	transform: rotate(-1deg);
@@ -20,8 +20,8 @@
 .tri-right-left {
 	position: absolute !important;
 	min-height: 3rem;
-	width: calc(100% + 20rem);
-	left: -10rem;
+	width: calc(100vw + 20rem);
+	left: -10vw;
 	bottom: -1rem;
 	z-index: 0;
 	transform: rotate(1deg);
@@ -29,6 +29,12 @@
 
 .tri-reverse {
 	transform: rotate(180deg);
+}
+
+.tri-left-right.t-climb-1 {
+	transform: rotate(-1.5deg);
+	min-height: 5rem;
+	bottom: -4rem;
 }
 
 .tri-left-right.t-climb-2 {
